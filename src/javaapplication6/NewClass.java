@@ -10,5 +10,5 @@ package javaapplication6;
  * @author 5161015
  */
 public class NewClass {
-    
+    aaa
 }
